@@ -1,4 +1,5 @@
-# chat-app
+# real-time-chat-app
+A real-time chat app where users can chat with each other.
 
 ## Project setup
 ```
