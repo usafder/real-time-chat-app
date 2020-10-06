@@ -1,5 +1,5 @@
 # real-time-chat-app
-A real-time chat app where users can chat with each other.
+A real-time chat app built using Vue, Firebase and Materialize CSS where users can chat with each other.
 
 ## Project setup
 ```
